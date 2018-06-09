@@ -10,4 +10,5 @@ git commit -m "Message"
 git pull
 
 # Conflict
-
+- Current Change
+- Icomming Change
