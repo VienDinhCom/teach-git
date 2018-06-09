@@ -1,12 +1,13 @@
-# learn-git
+# Push
+git add .
+git commit -m "Message"
+git pull
+git push
 
-Day la code cua Tu - Sua doi chut xiu
+# Pull
+git add .
+git commit -m "Message"
+git pull
 
-Day laf code cua Thanh Okay guys
+# Conflict
 
-Okay guys
-
-111
-
-
-dfsdafsdaf
