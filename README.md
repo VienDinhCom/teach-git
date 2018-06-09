@@ -1,6 +1,7 @@
 # Clone (Download code xuống máy tính)
 Dùng lệnh `git clone [repository url]`
 
+
 # Status (Trạng thái của các files)
 1. ' ' = unmodified
 2. M   = modified
@@ -26,5 +27,5 @@ Bước 4: Xử lí xung đột nếu có
 
 
 # Resolve Conflict (Xử lí xung đột nết có)
-- Current Change
-- Icomming Change
+- Current Change (Thay đổi tại máy tính)
+- Icomming Change (Thay đổi từ server)
