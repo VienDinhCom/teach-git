@@ -25,6 +25,7 @@ Bước 2: Commit những file đã được chọn nếu có => `git commit -m 
 Bước 3: Pull code trên server về => `git pull origin`
 Bước 4: Xử lí xung đột nếu có
 
+
 # Resolve Conflict (Xử lí xung đột nết có)
 - Current Change (Thay đổi tại máy tính)
 - Icomming Change (Thay đổi từ server)
